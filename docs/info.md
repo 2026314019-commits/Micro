@@ -13,7 +13,7 @@ muestra con 4 entradas de codigo binario y 7 salidas como usar y plasmar en un d
 
 ## How to test
 
-Explain how to use your project
+Seleccionadas una combinacion de codigo binario (0-7) y las salidas plasman la combinacion correspondiente poniendo o encendiendo y mostrando en este caso el numero correspondiente 
 
 ## External hardware
 
