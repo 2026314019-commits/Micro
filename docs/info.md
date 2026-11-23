@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+muestra con 4 entradas de codigo binario y 7 salidas como usar y plasmar en un display de 7 segementos
 
 ## How to test
 
@@ -17,4 +17,4 @@ Explain how to use your project
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Display de 7 segmentos
